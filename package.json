@@ -1,0 +1,23 @@
+{
+  "name": "gttx-sdk",
+  "version": "0.0.0",
+  "description": "SDK for gttx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyvas/ggtx-sdk.git"
+  },
+  "keywords": [
+    "sdk",
+    "gttx"
+  ],
+  "author": "taevas <di4urp@gmai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyvas/ggtx-sdk/issues"
+  },
+  "homepage": "https://github.com/zyvas/ggtx-sdk#readme"
+}
